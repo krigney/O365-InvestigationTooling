@@ -1,9 +1,9 @@
 {
     "Description": "Global configuration file for O365 Investigations",
-    "InvestigationAppID": "",
-    "InvestigationAppSecret": "",
-    "InvestigationTenantDomain": "",
-    "InvestigationTenantGUID": "",
+    "InvestigationAppID": "ad889f7c-ea63-486e-91bf-1efcd2dbfe52  ",
+    "InvestigationAppSecret": "zzVr+Qi2jtMhIeoZJJpays2eyLzhyLtKVuikBYi5m+g=",
+    "InvestigationTenantDomain": "nintendo.onmicrosoft.com",
+    "InvestigationTenantGUID": "f866113a-10c2-47c3-9817-2a94afb76e68",
     "LoginURL" : "https://login.windows.net",
     "ResourceAPI" : "https://manage.office.com",
     "IngestLocalFiles": "False",
